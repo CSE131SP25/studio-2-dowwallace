@@ -63,8 +63,6 @@ public class Ruin {
 		
 		System.out.println("ruin rate from simulation: " + ruinRate + "%");
 		System.out.println("expected ruin rate: " + expectedRuinRate + "%");
-		System.out.println(lossCounter);
-		System.out.println(a);
 		
 	}
 
